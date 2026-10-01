@@ -1,0 +1,15 @@
+{
+"name": "Stream BJO",
+"short_name": "Stream BJO",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#0f0f17",
+"theme_color": "#6d28d9",
+"icons": [
+{
+"src": "https://cdn-icons-png.flaticon.com/512/1388/1388810.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
